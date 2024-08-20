@@ -29,6 +29,7 @@ Mapa 2 (A Redenção):
 João C entra no carro de seu tio, se acomoda e fecha os olhos. Pela primeira vez em vários anos de vida, João C consegue compreender como a vida realmente é... Ele vai a ida totalmente quieto, enquanto sua família conversa, e, tende a observar com outros olhos todo o derredor. (É notável que nesse momento, João C está conseguindo enxergar uma São Paulo mais bonita, vendo esperança e um futuro.)
 Ele passa em frente ao Parque (Vamos dizer qual parque dentro das cenas), vê as pessoas e a beleza do lugar, assim, ele cria uma nova convicção, sendo ela admirar da maneira certa a grande São Paulo.
 Após chegar em casa, em alguns tempos, ele decide dar uma volta em SP, assim concretizando a nova meta... Viver, ajudar e admirar São Paulo.
+
 Finalização: Com a nossa história, queríamos entregar um significado maior sobre “Quebrar correntes”. Isso seria se libertar das amarras e do São Paulo cinzento... Muitos tem suas próprias prisões, os motivos de estarem lá, dentre vários e vários outros... Porém desejamos mostrar a beleza da vida, a compreensão de como é lindo a nossa cidade. Mesmo havendo seus erros, notável é, que nós a fazemos bela.
 
 Músicas que vão estar na Rádio (Mecânica do jogo para escolher músicas que combinam com cada parte. Todos os artistas são originais de São Paulo.)
