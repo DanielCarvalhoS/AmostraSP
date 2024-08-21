@@ -39,10 +39,11 @@ Músicas que vão estar na Rádio (Mecânica do jogo para escolher músicas que 
 ### Principais 
 
 João Carlos Barbosa (Protagonista e Filho):
+João Carlos nasceu em São Paulo e após 4 anos de seu nascimento, infelizmente, perdeu o seu pai. O que fez ele ter pouquíssimas memórias do homem que ele era, mas, tem a sua mãe contando como incrível ele era... Sua mãe tomou conta de João Carlos e recebeu a ajuda de seu Tio para tal ato. João Carlos trabalhava e ajudava sua mãe desde pequeno, e, demonstrava ser um garoto extremamente sincero e inteligente. Após completar 18 anos, João Carlos, começou a trabalhar CLT, assim ajudando com uma renda maior.
 
-Maria Antônia Barbosa (Mãe):
+Maria Antônia Barbosa (Mãe): Maria perdeu o seu marido um pouco antes de ter a segunda filha... Nascida em São Paulo, Maria lutou sua vida inteira pela sua família, sempre, a todo momento lutando pelo bem deles. Maria depois de alguns anos, decidiu praticar coisas novas tentando conseguir uma renda.. e conseguiu ter sucesso na área do tricô.
 
-Bianca Barbosa (Irmã mais nova):
+Bianca Barbosa (Irmã mais nova): 
 
 Júlio Roberto Santos (Tio por parte de Mãe):
 
