@@ -36,19 +36,19 @@ Músicas que vão estar na Rádio (Mecânica do jogo para escolher músicas que 
 
 ## Personagens 
 
-# Principais 
+### Principais 
 
 João Carlos Barbosa (Protagonista e Filho):
 
-Maria Antônia Barbosa (Mãe)
+Maria Antônia Barbosa (Mãe):
 
-Bianca Barbosa (Irmã mais nova)
+Bianca Barbosa (Irmã mais nova):
 
-Júlio Roberto Santos (Tio por parte de Mãe)
+Júlio Roberto Santos (Tio por parte de Mãe):
 
-José (Preso N°2469) 
+José (Preso N°2469):
 
-# Secundários 
+### Secundários 
 
 Ladrão 1
 Ladrão 2
