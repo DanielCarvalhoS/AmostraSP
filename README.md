@@ -41,8 +41,11 @@ Músicas que vão estar na Rádio (Mecânica do jogo para escolher músicas que 
 João Carlos Barbosa (Protagonista e Filho):
 
 Maria Antônia Barbosa (Mãe)
+
 Bianca Barbosa (Irmã mais nova)
+
 Júlio Roberto Santos (Tio por parte de Mãe)
+
 José (Preso N°2469) 
 
 # Secundários 
