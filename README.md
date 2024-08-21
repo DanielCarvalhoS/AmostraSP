@@ -44,7 +44,7 @@ João Carlos nasceu em São Paulo e após 4 anos de seu nascimento, infelizmente
 
 Maria Antônia Barbosa (Mãe): Maria perdeu o seu marido um pouco antes de ter a segunda filha... Nascida em São Paulo, Maria lutou sua vida inteira pela sua família, sempre, a todo momento lutando pelo bem deles. Maria depois de alguns anos, decidiu praticar coisas novas tentando conseguir uma renda.. e conseguiu ter sucesso na área do tricô.
 
-Bianca Barbosa (Irmã mais nova): 
+Bianca Barbosa (Irmã mais nova): Irmã mais nova, única mulher tirando a sua mãe. Nascida em São Paulo, Bianca é atualmente estudante, ama jogar vôlei e admira muito o céu e a lua. Ela tem um amor incondicional por seu irmão, mãe e também ama um cachorro quente. 
 
 Júlio Roberto Santos (Tio por parte de Mãe):
 
