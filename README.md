@@ -34,7 +34,7 @@ Finalização: Com a nossa história, queríamos entregar um significado maior s
 
 Músicas que vão estar na Rádio (Mecânica do jogo para escolher músicas que combinam com cada parte. Todos os artistas são originais de São Paulo.)
 
-
+## Personagens 
 
 ## Gameplay
 
