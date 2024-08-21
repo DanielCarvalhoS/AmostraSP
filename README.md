@@ -46,7 +46,7 @@ Maria Antônia Barbosa (Mãe): Maria perdeu o seu marido um pouco antes de ter a
 
 Bianca Barbosa (Irmã mais nova): Irmã mais nova, única mulher tirando a sua mãe. Nascida em São Paulo, Bianca é atualmente estudante, ama jogar vôlei e admira muito o céu e a lua. Ela tem um amor incondicional por seu irmão, mãe e também ama um cachorro quente. 
 
-Júlio Roberto Santos (Tio por parte de Mãe):
+Júlio Roberto Santos (Tio por parte de Mãe): Júlio nasceu em Minas mas veio para São Paulo junto de sua mãe. É o irmão mais velho de Maria, e, é excepcional na área da mecânica. Ele ajudou Maria em seus momentos mais difíceis após de sua vida e foi bastante presente
 
 José (Preso N°2469):
 
