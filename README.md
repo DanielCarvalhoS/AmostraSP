@@ -2,9 +2,10 @@
 
 ## Mapas
 
-1- 
+1- A prisão: JC acorda em sua cela com um policial o chamando para uma auditoria, com isso se inicia a gameplay com ele andando pela pris
+ão (com pegada de labirinto) até o local desiguinado. após chegar no objetivo irá aparecer uma mensagem dizendo q ele está liberado, nisso entra a segunda parte da gameplay. Nela ele anda pela prisão conversando com os detentos pela ulltima vez, e por fim vai até a saida onde encontra com seu tio. (a musica tema serà um remix em loop de Vida Loka, Pt. 2 e Nego Drama, só instrumental). 
 
-2- 
+1.5- ele encontrará o tio dele fora do carro esperando ele para irem embora, nisso eles entram no carro e inicia uma cena de dialogo.
 
 3-
 
