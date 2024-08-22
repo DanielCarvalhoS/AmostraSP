@@ -39,17 +39,16 @@ Músicas que vão estar na Rádio (Mecânica do jogo para escolher músicas que 
 
 ### Principais 
 
-João Carlos Barbosa (Protagonista e Filho):
-João Carlos nasceu em São Paulo e após 4 anos de seu nascimento, infelizmente, perdeu o seu pai. O que fez ele ter pouquíssimas memórias do homem que ele era, mas, tem a sua mãe contando como incrível ele era... Sua mãe tomou conta de João Carlos e recebeu a ajuda de seu Tio para tal ato. João Carlos trabalhava e ajudava sua mãe desde pequeno, e, demonstrava ser um garoto extremamente sincero e inteligente. Após completar 18 anos, João Carlos, começou a trabalhar CLT, assim ajudando com uma renda maior.
+João Carlos Barbosa (Protagonista e Filho): João Carlos nasceu em São Paulo e após 6 anos de seu nascimento, infelizmente, perdeu o seu pai. O que fez ele ter pouquíssimas memórias do homem que ele era, mas, tem a sua mãe contando como incrível ele era... Sua mãe tomou conta de João Carlos e recebeu a ajuda de seu Tio para tal ato. João Carlos trabalhava e ajudava sua mãe desde pequeno, e, demonstrava ser um garoto extremamente sincero e inteligente. Após completar 18 anos, João Carlos, começou a trabalhar CLT, assim ajudando com uma renda maior.
 
 Maria Antônia Barbosa (Mãe): Maria perdeu o seu marido um pouco antes de ter a segunda filha... Nascida em São Paulo, Maria lutou sua vida inteira pela sua família, sempre, a todo momento lutando pelo bem deles. Maria depois de alguns anos, decidiu praticar coisas novas tentando conseguir uma renda.. e conseguiu ter sucesso na área do tricô.
 
 Bianca Barbosa (Irmã mais nova): Irmã mais nova, única mulher tirando a sua mãe. Nascida em São Paulo, Bianca é atualmente estudante, ama jogar vôlei e admira muito o céu e a lua. Ela tem um amor incondicional por seu irmão, mãe e também ama um cachorro quente. 
 
-Júlio Roberto Santos (Tio por parte de Mãe): Júlio nasceu em Minas mas veio para São Paulo junto de sua mãe. É o irmão mais velho de Maria, e, é excepcional na área da mecânica. Ele ajudou Maria em seus momentos mais difíceis após de sua vida e foi bastante presente
+Júlio Roberto Santos (Tio por parte de Mãe e Padrinho dos filhos): Júlio nasceu em Minas mas veio para São Paulo junto de sua mãe. É o irmão mais velho de Maria, e, é excepcional na área da mecânica. Ele ajudou Maria em seus momentos mais difíceis após a morte do marido, e, foi bastante presente na vida de João Carlos e Bianca Barbosa.
 
-José (Preso N°2469):
-
+José (Preso N°2469): Nascido em Angola, se refugiou para São Paulo com a idade de 16, junto de seu Pai. Eles tiveram grandes dificuldades tentando se adaptar, o'que resultou em uma queda financeira extrema. Após uma luta contínua tentando se "enturmar" com a nova rotina em uma nação diferente, seu Pai conseguiu um emprego de caminhoneiro, enquanto José vendia doces na rua etc... Com muito esforço, ambos finalmentes obtiveram uma renda estável, que resultou em uma escola para José. Anos depois, José havia se formado em Arquitetura, havia se casado e posteriormente teve sua filha. Um verdadeiro auge na vida de José, fazendo com que sua fámilia tivesse ótimas e impecáveis condições financeiras. Entretanto, cerca de quatro anos após, um dia chuvoso, em uma viagem em família junto de seu Pai, filha e esposa, José enquanto estava dirigindo, pega muita velocidade em uma curva resultando em um acontecimento terrível. A morte de sua mulher e pai foi instãntanea, porém sua filha, ainda ferida, estava viva, então, utilizando o'que restou de adrenalina, chamando uma âmbulancia, consegue a tempo salvar sua filha, mas desmaia com os machucados em seu corpo. Semanas após o ocorrido, com sua filha tendo uma melhora, José começa a se culpar de forma extrema por tudo que aconteceu.. resultando em uma depressão extrema. Houve uma decaída em todos os sentidos possíveis; financeira, emocional e até familiar, com ele se afastando dos familiares de sua esposa, por eles baterem o pé no chão culpando ele pela morte de sua esposa.
+Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um saco de batatas para ele e sua filha comer, mas é pego e tentando resistir ele leva uma coronhada, sendo levado para a cadeia de forma instântanea.
 ### Secundários 
 
 Ladrão 1
