@@ -69,3 +69,15 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 
 
 ## Assets usados + GameObjects
+
+https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-bicycle-5-262688
+
+https://assetstore.unity.com/packages/3d/environments/low-poly-environment-park-242702
+
+https://assetstore.unity.com/packages/3d/environments/low-poly-park-154815
+
+https://assetstore.unity.com/packages/3d/environments/urban/low-poly-park-61922
+
+https://assetstore.unity.com/packages/3d/environments/urban/simple-city-pack-plain-100348
+
+https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526
