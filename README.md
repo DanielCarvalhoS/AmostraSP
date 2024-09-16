@@ -63,11 +63,27 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 
 
 ## Gameplay
+A gameplay é feita controlando o personagem principal (João Carlos), com o intuito de estarmos sentido o que ele sente.
+É algo bem básico, com simples movimentos de W A & D
 
+W: Faz o personagem andar para a frente de seu rosto.
+A: Sua esquerda.
+D: Sua direita.
+
+Na fase de São Paulo, se resume a desviar de carros.
+Enquanto a segunda fase se resume em encontrar a ponte na qual trás as memórias de João Carlos.
 
 ## Referências
 
+Gameplay:
+Chiken Cross
+Average 3D Person 
 
+História: 
+Vivências de cada participante. 
+
+
+
 ## Assets usados + GameObjects
 
 https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-bicycle-5-262688
@@ -81,3 +97,28 @@ https://assetstore.unity.com/packages/3d/environments/urban/low-poly-park-61922
 https://assetstore.unity.com/packages/3d/environments/urban/simple-city-pack-plain-100348
 
 https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526
+
+
+# MUDANÇAS
+
+GAMEPLAY:
+
+Trocamos o 2D/3D com câmera em cima,para simplesmente deixarmos o uso dele para simplesmente 3D em terceira pessoa.
+
+Retiramos a ideia da prisão e o labirinto por conta de falta de Assets, mas, trocamos e colocamos o resto na Cutscene.
+
+Não haverá mais o diálogo do João Carlos com o seu tio no carro.
+
+Reduzimos o tamanho dos mapas e não haverá mais falas/conversas com NPC's
+
+O final foi modificado, para ser simplesmente uma conclusão para os pensamentos de João Carlos.
+
+HISTÓRIA:
+
+Retiramos a presença da personagem Bianca (Irmã), e apenas colocamos uma citação.
+
+Retiramos a história de José, que, iria ser contada.
+
+Por fim, retiramos a maioria das citações do Pai de João Carlos, junto de seu "Espírito" na cena final.
+
+
