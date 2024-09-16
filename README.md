@@ -63,7 +63,7 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 
 
 ## Gameplay
->[!Importante]
+>[!Important]
 >
 >A gameplay é feita controlando o personagem principal (João Carlos), com o intuito de estarmos sentido o que ele sente.
 É algo bem básico, com simples movimentos de W A & D
@@ -77,7 +77,7 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >
 ## Referências
 
->![Important]
+>[!Important]
 >
 >Gameplay:
 >Chiken Cross
