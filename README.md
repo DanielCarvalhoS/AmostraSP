@@ -63,40 +63,45 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 
 
 ## Gameplay
-A gameplay é feita controlando o personagem principal (João Carlos), com o intuito de estarmos sentido o que ele sente.
+>[!Importante]
+>
+>A gameplay é feita controlando o personagem principal (João Carlos), com o intuito de estarmos sentido o que ele sente.
 É algo bem básico, com simples movimentos de W A & D
-
-W: Faz o personagem andar para a frente de seu rosto.
-A: Sua esquerda.
-D: Sua direita.
-
-Na fase de São Paulo, se resume a desviar de carros.
-Enquanto a segunda fase se resume em encontrar a ponte na qual trás as memórias de João Carlos.
-
+>
+>W: Faz o personagem andar para a frente de seu rosto.
+>A: Sua esquerda.
+>D: Sua direita.
+>
+>Na fase de São Paulo, se resume a desviar de carros.
+>Enquanto a segunda fase se resume em encontrar a ponte na qual trás as memórias de João Carlos.
+>
 ## Referências
 
-Gameplay:
-Chiken Cross
-Average 3D Person 
+>![Important]
+>
+>Gameplay:
+>Chiken Cross
+>Average 3D Person 
 
-História: 
-Vivências de cada participante. 
-
+>História: 
+>Vivências de cada participante. 
 
 
 ## Assets usados + GameObjects
 
-https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-bicycle-5-262688
-
-https://assetstore.unity.com/packages/3d/environments/low-poly-environment-park-242702
-
-https://assetstore.unity.com/packages/3d/environments/low-poly-park-154815
-
-https://assetstore.unity.com/packages/3d/environments/urban/low-poly-park-61922
-
-https://assetstore.unity.com/packages/3d/environments/urban/simple-city-pack-plain-100348
-
-https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526
+>![Important]
+>
+>https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-bicycle-5-262688
+>
+>https://assetstore.unity.com/packages/3d/environments/low-poly-environment-park-242702
+>
+>https://assetstore.unity.com/packages/3d/environments/low-poly-park-154815
+>
+>https://assetstore.unity.com/packages/3d/environments/urban/low-poly-park-61922
+>
+>https://assetstore.unity.com/packages/3d/environments/urban/simple-city-pack-plain-100348
+>
+>https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526
 
 
 # MUDANÇAS
@@ -117,7 +122,7 @@ https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-upda
 
 ##HISTÓRIA:
 
->![Important]
+>[!Important]
 >
 >- Retiramos a presença da personagem Bianca (Irmã), e apenas colocamos uma citação.
 >
