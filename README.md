@@ -101,24 +101,26 @@ https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-upda
 
 # MUDANÇAS
 
-GAMEPLAY:
 
-Trocamos o 2D/3D com câmera em cima,para simplesmente deixarmos o uso dele para simplesmente 3D em terceira pessoa.
+###GAMEPLAY:
+>[!Important]
+> -Trocamos o 2D/3D com câmera em cima,para simplesmente deixarmos o uso dele para simplesmente 3D em terceira pessoa.
 
-Retiramos a ideia da prisão e o labirinto por conta de falta de Assets, mas, trocamos e colocamos o resto na Cutscene.
+> -Retiramos a ideia da prisão e o labirinto por conta de falta de Assets, mas, trocamos e colocamos o resto na Cutscene.
 
-Não haverá mais o diálogo do João Carlos com o seu tio no carro.
+> -Não haverá mais o diálogo do João Carlos com o seu tio no carro.
 
-Reduzimos o tamanho dos mapas e não haverá mais falas/conversas com NPC's
+> -Reduzimos o tamanho dos mapas e não haverá mais falas/conversas com NPC's
 
-O final foi modificado, para ser simplesmente uma conclusão para os pensamentos de João Carlos.
+> -O final foi modificado, para ser simplesmente uma conclusão para os pensamentos de João Carlos.
 
-HISTÓRIA:
+###HISTÓRIA:
 
-Retiramos a presença da personagem Bianca (Irmã), e apenas colocamos uma citação.
+>![Important]
+> -Retiramos a presença da personagem Bianca (Irmã), e apenas colocamos uma citação.
 
-Retiramos a história de José, que, iria ser contada.
+> -Retiramos a história de José, que, iria ser contada.
 
-Por fim, retiramos a maioria das citações do Pai de João Carlos, junto de seu "Espírito" na cena final.
+> -Por fim, retiramos a maioria das citações do Pai de João Carlos, junto de seu "Espírito" na cena final.
 
 
