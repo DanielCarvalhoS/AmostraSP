@@ -10,7 +10,7 @@ Onde personagem mora: Rua Maestro Calília
  2- `A Cidade`: JC encontrará o seu tio fora do carro esperando ele para irem embora, nisso eles entram no carro e inicia uma cena de dialogo, com o carro andando pela estrada. JC diz que se sente muito bem e quer conhecer melhor a cidade que ele morou mas nunca apreciou. Assim terminando o dialogo. Ele chega em casa, descansa, e ocorre uma passagem de tempo de 4 dias. nesse meio tempo JC arruma em emprego de entregador do Ifood, com isso ele aproveita para apreciar a cidade enquanto trabalha, juntando o útil com o agradavel.
 
  1- `O Parque`: JC inicia o dia pegando sua bicicleta e indo fazer as entegras nas ruas de SP dos locais mais famosos, assim iniciando a gameplay, dele desviando de carros e chegando no ponto marcado, enquanto ouve musica em seu fone de ouvido ***(diferente do mapa 1, o mapa 2 serà mais vivo e colorido, com musicas mais autoastral)***.
->
+
 >- ****MUDANÇAS****
                                                                                                                                                              
 ## Enredo/História
