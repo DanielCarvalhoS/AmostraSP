@@ -5,6 +5,9 @@ Onde personagem mora: Rua Maestro Calília
 ## Mapas
 
 >[!Important]
+>- ****MUDANÇAS****
+
+
 
  1- `A prisão`: JC acorda em sua cela com um policial o chamando para uma auditoria, com isso se inicia a gameplay com ele andando pela prisão (com pegada de labirinto) até o local desiguinado. após chegar no objetivo irá aparecer uma mensagem dizendo q ele está liberado, nisso entra a segunda parte da gameplay. Nela ele anda pela prisão conversando com os detentos pela ulltima vez, e por fim vai até a saida onde encontra com seu tio. ***(a musica tema serà um remix em loop de Vida Loka, Pt. 2 e Nego Drama, só instrumental)***. O design da prisâo tem uma estética mais escura e morta, bem cinza e mòrbida
 
@@ -12,8 +15,8 @@ Onde personagem mora: Rua Maestro Calília
 
  1- `O Parque`: JC inicia o dia pegando sua bicicleta e indo fazer as entegras nas ruas de SP dos locais mais famosos, assim iniciando a gameplay, dele desviando de carros e chegando no ponto marcado, enquanto ouve musica em seu fone de ouvido ***(diferente do mapa 1, o mapa 2 serà mais vivo e colorido, com musicas mais autoastral)***.
 
->- ****MUDANÇAS****
-                                                                                                                                                             
+                                                                                                                      
+                                                                                                                                                           
 ## Enredo/História
 
 Enredo de “A Luz De São Paulo.” (Jogo)
