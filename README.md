@@ -59,7 +59,6 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 
 ### Secundários 
 
->[!Important]
 > `Quadrilha`: São os ladrões que se encontram com João Carlos e falam que ele aparenta ser alguém já conhecido.
 >
 > `Policial Jon`: É o policial que prende e retira o João Carlos da prisão.
