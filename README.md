@@ -15,8 +15,8 @@ Onde personagem mora: Rua Maestro Calília
 ## Enredo/História
 
 >[!Important]
->- Enredo de “A Luz De São Paulo.” (Jogo)
->-
+> Enredo de “A Luz De São Paulo.” (Jogo)
+>
 >Integrantes (2 Jogos):
 >- Daniel Carvalho Da Silva
 >- Enzo Silva
