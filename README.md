@@ -79,7 +79,9 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 É algo bem básico, com simples movimentos de W A & D
 >
 >W: Faz o personagem andar para a frente de seu rosto.
+>
 >A: Sua esquerda.
+>
 >D: Sua direita.
 >
 >- Na fase de São Paulo, se resume a desviar de carros.
