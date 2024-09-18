@@ -17,9 +17,9 @@ Onde personagem mora: Rua Maestro Calília
 -----------
 > 1- `A prisão`: JC acorda em sua cela com um policial o chamando para uma auditoria, com isso se inicia a gameplay com ele andando pela prisão (com pegada de labirinto) até o local desiguinado. após chegar no objetivo irá aparecer uma mensagem dizendo q ele está liberado, nisso entra a segunda parte da gameplay. Nela ele anda pela prisão conversando com os detentos pela ulltima vez, e por fim vai até a saida onde encontra com seu tio. ***(a musica tema serà um remix em loop de Vida Loka, Pt. 2 e Nego Drama, só instrumental)***. O design da prisâo tem uma estética mais escura e morta, bem cinza e mòrbida
 >
- >2- `A Cidade`: JC encontrará o seu tio fora do carro esperando ele para irem embora, nisso eles entram no carro e inicia uma cena de dialogo, com o carro andando pela estrada. JC diz que se sente muito bem e quer conhecer melhor a cidade que ele morou mas nunca apreciou. Assim terminando o dialogo. Ele chega em casa, descansa, e ocorre uma passagem de tempo de 4 dias. nesse meio tempo JC arruma em emprego de entregador do Ifood, com isso ele aproveita para apreciar a cidade enquanto trabalha, juntando o útil com o agradavel.
+> 2- `A Cidade`: JC encontrará o seu tio fora do carro esperando ele para irem embora, nisso eles entram no carro e inicia uma cena de dialogo, com o carro andando pela estrada. JC diz que se sente muito bem e quer conhecer melhor a cidade que ele morou mas nunca apreciou. Assim terminando o dialogo. Ele chega em casa, descansa, e ocorre uma passagem de tempo de 4 dias. nesse meio tempo JC arruma em emprego de entregador do Ifood, com isso ele aproveita para apreciar a cidade enquanto trabalha, juntando o útil com o agradavel.
 >
- >1- `O Parque`: JC inicia o dia pegando sua bicicleta e indo fazer as entegras nas ruas de SP dos locais mais famosos, assim iniciando a gameplay, dele desviando de carros e chegando no ponto marcado, enquanto ouve musica em seu fone de ouvido ***(diferente do mapa 1, o mapa 2 serà mais vivo e colorido, com musicas mais autoastral)***.
+> 1- `O Parque`: JC inicia o dia pegando sua bicicleta e indo fazer as entegras nas ruas de SP dos locais mais famosos, assim iniciando a gameplay, dele desviando de carros e chegando no ponto marcado, enquanto ouve musica em seu fone de ouvido ***(diferente do mapa 1, o mapa 2 serà mais vivo e colorido, com musicas mais autoastral)***.
 
                                                                                                                       
                                                                                                                                                            
@@ -42,7 +42,7 @@ Ele passa em frente ao Parque ***(Vamos dizer qual parque dentro das cenas)***, 
 Após chegar em casa, em alguns tempos, ele decide dar uma volta em SP, assim concretizando a nova meta... Viver, ajudar e admirar São Paulo.
 >
 > `Finalização`: Com a nossa história, queríamos entregar um significado maior sobre “Quebrar correntes”. Isso seria se libertar das amarras e do São Paulo cinzento... Muitos tem suas próprias prisões, os motivos de estarem lá, dentre vários e vários outros... Porém desejamos mostrar a beleza da vida, a compreensão de como é lindo a nossa cidade. Mesmo havendo seus erros, notável é, que nós a fazemos bela.
-
+>
 >***Músicas que vão estar na Rádio (Mecânica do jogo para escolher músicas que combinam com cada parte. Todos os artistas são originais de São Paulo.)***
 
 ## Personagens 
