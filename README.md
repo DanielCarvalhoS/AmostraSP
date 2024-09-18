@@ -89,11 +89,11 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 
 >[!Important]
 >
->- **Gameplay:**
+> **Gameplay:**
 >- Chiken Cross The Road
 >- Average 3D Person 
 >
->- **História:** 
+> **História:** 
 >- Vivências de cada participante. Houve uma conversa em geral, assim, juntando conhecimentos gerais e acontecimentos do grupo, fizemos uma junção geral, que criou a história e personagens do jogo.
 
 ## MUDANÇAS
