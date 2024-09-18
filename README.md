@@ -2,9 +2,7 @@
 ![image](https://github.com/user-attachments/assets/0eecc770-bc5a-4eaf-a46b-31823ffd8346)
 
 Onde personagem mora: Rua Maestro Calília
-## Mapas
-
-###ANTES DAS MUDANÇAS!!!!!###
+### ANTES DAS MUDANÇAS!!!!!
 -----------
 > 1- `A prisão`: JC acorda em sua cela com um policial o chamando para uma auditoria, com isso se inicia a gameplay com ele andando pela prisão (com pegada de labirinto) até o local desiguinado. após chegar no objetivo irá aparecer uma mensagem dizendo q ele está liberado, nisso entra a segunda parte da gameplay. Nela ele anda pela prisão conversando com os detentos pela ulltima vez, e por fim vai até a saida onde encontra com seu tio. ***(a musica tema serà um remix em loop de Vida Loka, Pt. 2 e Nego Drama, só instrumental)***. O design da prisâo tem uma estética mais escura e morta, bem cinza e mòrbida
 >
@@ -24,6 +22,7 @@ Integrantes (2 Jogos):
 >- Enzo Silva
 >- Gustavo Rezende
 >- Guilherme Santos
+
 >
 > `Personagem Principal`: ***(Música tema da parte: Crioulo - Não existe amor em SP)***
 “João Carlos” é um jovem adulto de 20 anos, que mora nas famosas vielas de São Paulo. Trabalha na lojinha perto de sua casa, mora junto de sua Mãe e irmã... Que acabou tendo que virar o “Pai” da casa por conta do falecimento de seu Pai. João Carlos era dito ser extremamente parecido com o Pai, o que fez ele ter sua queda. Algo a se notar, é que João C tende a detestar o lugar onde mora, e vê São Paulo como uma grande prisão cinzenta... Oque de forma irônica, se tornou realidade. João C em um dia caminhando para o trabalho é confundido com o seu Pai por um grupo de revoada, o que deixa ele com um certo desconforto para saber com o que seu Pai trabalhava. Entretanto, a polícia chega no lugar, como um tipo de emboscada, e confunde João C como um dos ladrões.. que tenta falar, mas, é impedido pelos policiais. E do dia para a noite, João C foi preso, mesmo sabendo que era inocente.
@@ -56,12 +55,15 @@ Após chegar em casa, em alguns tempos, ele decide dar uma volta em SP, assim co
 > `José (Preso N°2469)`: Nascido em Angola, se refugiou para São Paulo com a idade de 16, junto de seu Pai. Eles tiveram grandes dificuldades tentando se adaptar, o'que resultou em uma queda financeira extrema. Após uma luta contínua tentando se "enturmar" com a nova rotina em uma nação diferente, seu Pai conseguiu um emprego de caminhoneiro, enquanto José vendia doces na rua etc... Com muito esforço, ambos finalmentes obtiveram uma renda estável, que resultou em uma escola para José. Anos depois, José havia se formado em Arquitetura, havia se casado e posteriormente teve sua filha. Um verdadeiro auge na vida de José, fazendo com que sua fámilia tivesse ótimas e impecáveis condições financeiras. Entretanto, cerca de quatro anos após, um dia chuvoso, em uma viagem em família junto de seu Pai, filha e esposa, José enquanto estava dirigindo, pega muita velocidade em uma curva resultando em um acontecimento terrível. A morte de sua mulher e pai foi instãntanea, porém sua filha, ainda ferida, estava viva, então, utilizando o'que restou de adrenalina, chamando uma âmbulancia, consegue a tempo salvar sua filha, mas desmaia com os machucados em seu corpo. Semanas após o ocorrido, com sua filha tendo uma melhora, José começa a se culpar de forma extrema por tudo que aconteceu.. resultando em uma depressão extrema. Houve uma decaída em todos os sentidos possíveis; financeira, emocional e até familiar, com ele se afastando dos familiares de sua esposa, por eles baterem o pé no chão culpando ele pela morte de sua esposa.
 Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um saco de batatas para ele e sua filha comer, mas é pego e tentando resistir ele leva uma coronhada, sendo levado para a cadeia de forma instântanea.
 
+>[!Important]
+>- Nota: Houve um planejamento para a criação de conversas dentre personagens. Com o tempo decidimos focar mais na gameplay direta, ao invés de conversas com NPC.
+
 ### Secundários 
 
 >[!Important]
-> `Quadrilha`
+> `Quadrilha`: São os ladrões que se encontram com João Carlos e falam que ele aparenta ser alguém já conhecido.
 >
-> `Policial 1`
+> `Policial Jon`: É o policial que prende e retira o João Carlos da prisão.
 
 
 ## Gameplay
@@ -86,9 +88,27 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >Average 3D Person 
 
 >História: 
->Vivências de cada participante. 
+>Vivências de cada participante. Houve uma conversa em geral, assim, juntando conhecimentos gerais e acontecimentos do grupo, fizemos uma junção geral, que criou a história e personagens do jogo.
 
-
+## MUDANÇAS
+>[!Important]
+>- **Fases**
+>- 1° Na fase 1, trocamos praticamente toda a gameplay por uma cutscene, que JC sai para trabalhar e é surpreendido por uma quadrilha, e para completar os problemas, um policial prende a quadrilha e leva ele junto, o fazendo ser preso injustamente, dentro da prisão ele conhece José, seu parceiro de cela, que conversa com ele e mostra que São Paulo não é tão ruim quanto ele vê. Logo após ele è liberado e seu tio com sua familia vâo buscar ele, com isso ele chega em casa e diz que vai sair com sua bicicleta para resolver umas coisas, nisso termina a cutscene e começa a 1º fase que virou a da cidade.
+>- 2º fase se tor a primeira, e agora ele precisa andar de bicicleta pela cidade, desviando dos carros até chegar no parque.
+>- agora a 2} fase de verdade, o João está no parque e começa a ir atrás das memorias do seu pai, após coletar todas, uma área na ponto é liberada e a cutscene final é iniciada.
+>
+>- ***Mecanicas*
+>-
+>- O jogo mudou de um 2.5d com vista de cima, para um 3d em terceira pessoa.
+>- na primeira fase, agora o player se move sozinho no eixo Z, e só precisa apertar as teclas A e D, para desviar dos carros.
+>- na segunda fase, o player tem uma movimentação nos eixos X e Z, além de um sistema de coletaveis que aparece na UI.
+> 
+*musicas*
+>fizemos um loop das musicas:
+> - Bum Bum Tam Tam - MC Fioti
+> - Não Existe Amor Em SP - CRIOLO
+> - Vida Loka Pt. 2 - Racionais MC'S
+> - Homem Na Estrada - Racionais MC's
 
 ## Assets usados + GameObjects
 
