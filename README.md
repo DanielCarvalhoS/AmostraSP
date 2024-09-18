@@ -81,13 +81,13 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 ## Referências
 
 >[!Important]
->
->Gameplay:
->Chiken Cross
->Average 3D Person 
-
->História: 
->Vivências de cada participante. Houve uma conversa em geral, assim, juntando conhecimentos gerais e acontecimentos do grupo, fizemos uma junção geral, que criou a história e personagens do jogo.
+>-
+>- **Gameplay:**
+>-Chiken Cross
+>-Average 3D Person 
+>-
+>- **História:** 
+>-Vivências de cada participante. Houve uma conversa em geral, assim, juntando conhecimentos gerais e acontecimentos do grupo, fizemos uma junção geral, que criou a história e personagens do jogo.
 
 ## MUDANÇAS
 >[!Important]
