@@ -65,6 +65,7 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >- Nota: Houve um planejamento para a criação de conversas dentre personagens. Com o tempo decidimos focar mais na gameplay direta, ao invés de conversas com NPC.
 
 ### Secundários 
+
 >[!Important]
 >- `Quadrilha`: São os ladrões que se encontram com João Carlos e falam que ele aparenta ser alguém já conhecido.
 >
@@ -82,6 +83,7 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >- Vivências de cada participante. Houve uma conversa em geral, assim, juntando conhecimentos gerais e acontecimentos do grupo, fizemos uma junção geral, que criou a história e personagens do jogo.
 
 ### Mudanças
+
 >[!Important]
 >
 >
