@@ -81,16 +81,18 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 ## Referências
 
 >[!Important]
->-
+
 >- **Gameplay:**
->-Chiken Cross
->-Average 3D Person 
+>- Chiken Cross
+>- Average 3D Person 
 >-
 >- **História:** 
->-Vivências de cada participante. Houve uma conversa em geral, assim, juntando conhecimentos gerais e acontecimentos do grupo, fizemos uma junção geral, que criou a história e personagens do jogo.
+>- Vivências de cada participante. Houve uma conversa em geral, assim, juntando conhecimentos gerais e acontecimentos do grupo, fizemos uma junção geral, que criou a história e personagens do jogo.
 
 ## MUDANÇAS
 >[!Important]
+>
+>
 >- **Fases**
 >- 1° Na fase 1, trocamos praticamente toda a gameplay por uma cutscene, que JC sai para trabalhar e é surpreendido por uma quadrilha, e para completar os problemas, um policial prende a quadrilha e leva ele junto, o fazendo ser preso injustamente, dentro da prisão ele conhece José, seu parceiro de cela, que conversa com ele e mostra que São Paulo não é tão ruim quanto ele vê. Logo após ele è liberado e seu tio com sua familia vâo buscar ele, com isso ele chega em casa e diz que vai sair com sua bicicleta para resolver umas coisas, nisso termina a cutscene e começa a 1º fase que virou a da cidade.
 >- 2º fase se tor a primeira, e agora ele precisa andar de bicicleta pela cidade, desviando dos carros até chegar no parque.
@@ -102,8 +104,8 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >- na primeira fase, agora o player se move sozinho no eixo Z, e só precisa apertar as teclas A e D, para desviar dos carros.
 >- na segunda fase, o player tem uma movimentação nos eixos X e Z, além de um sistema de coletaveis que aparece na UI.
 >- 
->-*musicas*
->fizemos um loop das musicas:
+>- *musicas*
+>- Fizemos um loop das musicas:
 >- Bum Bum Tam Tam - MC Fioti
 >- Não Existe Amor Em SP - CRIOLO
 >- Vida Loka Pt. 2 - Racionais MC'S
