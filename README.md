@@ -45,9 +45,9 @@ Após chegar em casa, em alguns tempos, ele decide dar uma volta em SP, assim co
 >
 >***Músicas que vão estar na Rádio (Mecânica do jogo para escolher músicas que combinam com cada parte. Todos os artistas são originais de São Paulo.)***
 
-###  Personagens 
+## Personagens 
 
-## Principais
+#### Principais
 
 >[!Important]
 >
