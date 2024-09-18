@@ -45,9 +45,9 @@ Após chegar em casa, em alguns tempos, ele decide dar uma volta em SP, assim co
 >
 >***Músicas que vão estar na Rádio (Mecânica do jogo para escolher músicas que combinam com cada parte. Todos os artistas são originais de São Paulo.)***
 
-## Personagens 
+###  Personagens 
 
-### Principais
+##Principais
 
 >[!Important]
 >
@@ -64,7 +64,7 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >
 >- Nota: Houve um planejamento para a criação de conversas dentre personagens. Com o tempo decidimos focar mais na gameplay direta, ao invés de conversas com NPC.
 
-### Secundários 
+## Secundários 
 
 >[!Important]
 >- `Quadrilha`: São os ladrões que se encontram com João Carlos e falam que ele aparenta ser alguém já conhecido.
