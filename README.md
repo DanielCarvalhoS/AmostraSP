@@ -4,28 +4,9 @@
 Onde personagem mora: Rua Maestro Calília
 ## Mapas
 
->[!Important]
->- ****MUDANÇAS****
->-
->-*Fases*
->- 1° Na fase 1, trocamos praticamente toda a gameplay por uma cutscene, que JC sai para trabalhar e é surpreendido por uma quadrilha, e para completar os problemas, um policial prende a quadrilha e leva ele junto, o fazendo ser preso injustamente, dentro da prisão ele conhece José, seu parceiro de cela, que conversa com ele e mostra que São Paulo não é tão ruim quanto ele vê. Logo após ele è liberado e seu tio com sua familia vâo buscar ele, com isso ele chega em casa e diz que vai sair com sua bicicleta para resolver umas coisas, nisso termina a cutscene e começa a 1º fase que virou a da cidade.
->- 2º fase se tor a primeira, e agora ele precisa andar de bicicleta pela cidade, desviando dos carros até chegar no parque.
->- agora a 2} fase de verdade, o João está no parque e começa a ir atrás das memorias do seu pai, após coletar todas, uma área na ponto é liberada e a cutscene final é iniciada.
->
-*Mecanicas*
->
-> - o jogo mudou de um 2.5d com vista de cima, para um 3d em terceira pessoa.
-> - na primeira fase, agora o player se move sozinho no eixo Z, e só precisa apertar as teclas A e D, para desviar dos carros.
-> - na segunda fase, o player tem uma movimentação nos eixos X e Z, além de um sistema de coletaveis que aparece na UI.
-> 
-*musicas*
->fizemos um loop das musicas:
-> - Bum Bum Tam Tam - MC Fioti
-> - Não Existe Amor Em SP - CRIOLO
-> - Vida Loka Pt. 2 - Racionais MC'S
-> - Homem Na Estrada - Racionais MC's
+###ANTES DAS MUDANÇAS!!!!!###
 -----------
- >1- `A prisão`: JC acorda em sua cela com um policial o chamando para uma auditoria, com isso se inicia a gameplay com ele andando pela prisão (com pegada de labirinto) até o local desiguinado. após chegar no objetivo irá aparecer uma mensagem dizendo q ele está liberado, nisso entra a segunda parte da gameplay. Nela ele anda pela prisão conversando com os detentos pela ulltima vez, e por fim vai até a saida onde encontra com seu tio. ***(a musica tema serà um remix em loop de Vida Loka, Pt. 2 e Nego Drama, só instrumental)***. O design da prisâo tem uma estética mais escura e morta, bem cinza e mòrbida
+> 1- `A prisão`: JC acorda em sua cela com um policial o chamando para uma auditoria, com isso se inicia a gameplay com ele andando pela prisão (com pegada de labirinto) até o local desiguinado. após chegar no objetivo irá aparecer uma mensagem dizendo q ele está liberado, nisso entra a segunda parte da gameplay. Nela ele anda pela prisão conversando com os detentos pela ulltima vez, e por fim vai até a saida onde encontra com seu tio. ***(a musica tema serà um remix em loop de Vida Loka, Pt. 2 e Nego Drama, só instrumental)***. O design da prisâo tem uma estética mais escura e morta, bem cinza e mòrbida
 >
  >2- `A Cidade`: JC encontrará o seu tio fora do carro esperando ele para irem embora, nisso eles entram no carro e inicia uma cena de dialogo, com o carro andando pela estrada. JC diz que se sente muito bem e quer conhecer melhor a cidade que ele morou mas nunca apreciou. Assim terminando o dialogo. Ele chega em casa, descansa, e ocorre uma passagem de tempo de 4 dias. nesse meio tempo JC arruma em emprego de entregador do Ifood, com isso ele aproveita para apreciar a cidade enquanto trabalha, juntando o útil com o agradavel.
 >
