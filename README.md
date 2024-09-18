@@ -47,7 +47,7 @@ Após chegar em casa, em alguns tempos, ele decide dar uma volta em SP, assim co
 
 ###  Personagens 
 
-##Principais
+## Principais
 
 >[!Important]
 >
