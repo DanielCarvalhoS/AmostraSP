@@ -70,23 +70,6 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >
 >- `Policial Jon`: É o policial que prende e retira o João Carlos da prisão.
 
-
-## Gameplay
-
->[!Important]
->
->- A gameplay é feita controlando o personagem principal (João Carlos), com o intuito de estarmos sentido o que ele sente.
-É algo bem básico, com simples movimentos de W A & D
->
->W: Faz o personagem andar para a frente de seu rosto.
->
->A: Sua esquerda.
->
->D: Sua direita.
->
->- Na fase de São Paulo, se resume a desviar de carros.
->- Enquanto a segunda fase se resume em encontrar a ponte na qual trás as memórias de João Carlos.
->
 ## Referências
 
 >[!Important]
@@ -98,7 +81,7 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 > **História:** 
 >- Vivências de cada participante. Houve uma conversa em geral, assim, juntando conhecimentos gerais e acontecimentos do grupo, fizemos uma junção geral, que criou a história e personagens do jogo.
 
-## Mudança
+### Mudanças
 >[!Important]
 >
 >
@@ -131,7 +114,7 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >- Vida Loka Pt. 2 - Racionais MC'S
 >- Homem Na Estrada - Racionais MC's
 
-## Assets usados + GameObjects
+### Assets usados + GameObjects
 
 >[!Important]
 >
@@ -148,7 +131,7 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526
 
 
-##Gameplay:
+### Gameplay:
 >[!Important]
 >
 >- Trocamos o 2D/3D com câmera em cima,para simplesmente deixarmos o uso dele para simplesmente 3D em terceira pessoa.
@@ -161,7 +144,7 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >
 >- O final foi modificado, para ser simplesmente uma conclusão para os pensamentos de João Carlos.
 
-##História:
+### História:
 
 >[!Important]
 >
