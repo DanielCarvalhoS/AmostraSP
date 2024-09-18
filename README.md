@@ -1,6 +1,12 @@
 # AmostraSP
 ![image](https://github.com/user-attachments/assets/0eecc770-bc5a-4eaf-a46b-31823ffd8346)
 
+>Integrantes (2 Jogos):
+>- Daniel Carvalho Da Silva
+>- Enzo Silva
+>- Gustavo Rezende
+>- Guilherme Santos
+
 Onde personagem mora: Rua Maestro Calília
 ### ANTES DAS MUDANÇAS!!!!!
 -----------
@@ -17,12 +23,6 @@ Onde personagem mora: Rua Maestro Calília
 >[!Important]
 > Enredo de “A Luz De São Paulo.” (Jogo)
 >
->Integrantes (2 Jogos):
->- Daniel Carvalho Da Silva
->- Enzo Silva
->- Gustavo Rezende
->- Guilherme Santos
-
 >
 > `Personagem Principal`: ***(Música tema da parte: Crioulo - Não existe amor em SP)***
 “João Carlos” é um jovem adulto de 20 anos, que mora nas famosas vielas de São Paulo. Trabalha na lojinha perto de sua casa, mora junto de sua Mãe e irmã... Que acabou tendo que virar o “Pai” da casa por conta do falecimento de seu Pai. João Carlos era dito ser extremamente parecido com o Pai, o que fez ele ter sua queda. Algo a se notar, é que João C tende a detestar o lugar onde mora, e vê São Paulo como uma grande prisão cinzenta... Oque de forma irônica, se tornou realidade. João C em um dia caminhando para o trabalho é confundido com o seu Pai por um grupo de revoada, o que deixa ele com um certo desconforto para saber com o que seu Pai trabalhava. Entretanto, a polícia chega no lugar, como um tipo de emboscada, e confunde João C como um dos ladrões.. que tenta falar, mas, é impedido pelos policiais. E do dia para a noite, João C foi preso, mesmo sabendo que era inocente.
