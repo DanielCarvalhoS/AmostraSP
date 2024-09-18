@@ -1,7 +1,9 @@
 # AmostraSP
 ![image](https://github.com/user-attachments/assets/0eecc770-bc5a-4eaf-a46b-31823ffd8346)
 
+![Important]
 >Integrantes (2 Jogos):
+>
 > Daniel Carvalho Da Silva
 > Enzo Silva
 > Gustavo Rezende
