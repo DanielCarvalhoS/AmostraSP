@@ -47,39 +47,39 @@ Após chegar em casa, em alguns tempos, ele decide dar uma volta em SP, assim co
 >[!Important]
 >
 >- `João Carlos Barbosa (Protagonista e Filho)`: João Carlos nasceu em São Paulo e após 6 anos de seu nascimento, infelizmente, perdeu o seu pai. O que fez ele ter pouquíssimas memórias do homem que ele era, mas, tem a sua mãe contando como incrível ele era... Sua mãe tomou conta de João Carlos e recebeu a ajuda de seu Tio para tal ato. João Carlos trabalhava e ajudava sua mãe desde pequeno, e, demonstrava ser um garoto extremamente sincero e inteligente. Após completar 18 anos, João Carlos, começou a trabalhar CLT, assim ajudando com uma renda maior.
->-
+>
 >- `Maria Antônia Barbosa (Mãe)`: Maria perdeu o seu marido um pouco antes de ter a segunda filha... Nascida em São Paulo, Maria lutou sua vida inteira pela sua família, sempre, a todo momento lutando pelo bem deles. Maria depois de alguns anos, decidiu praticar coisas novas tentando conseguir uma renda.. e conseguiu ter sucesso na área do tricô.
 >-
 >- `Bianca Barbosa (Irmã mais nova)`: Irmã mais nova, única mulher tirando a sua mãe. Nascida em São Paulo, Bianca é atualmente estudante, ama jogar vôlei e admira muito o céu e a lua. Ela tem um amor incondicional por seu irmão, mãe e também ama um cachorro quente.
 >-
 >- `Júlio Roberto Santos (Tio por parte de Mãe e Padrinho dos filhos)`: Júlio nasceu em Minas mas veio para São Paulo junto de sua mãe. É o irmão mais velho de Maria, e, é excepcional na área da mecânica. Ele ajudou Maria em seus momentos mais difíceis após a morte do marido, e, foi bastante presente na vida de João Carlos e Bianca Barbosa.
->-
+>
 >- `José (Preso N°2469)`: Nascido em Angola, se refugiou para São Paulo com a idade de 16, junto de seu Pai. Eles tiveram grandes dificuldades tentando se adaptar, o'que resultou em uma queda financeira extrema. Após uma luta contínua tentando se "enturmar" com a nova rotina em uma nação diferente, seu Pai conseguiu um emprego de caminhoneiro, enquanto José vendia doces na rua etc... Com muito esforço, ambos finalmentes obtiveram uma renda estável, que resultou em uma escola para José. Anos depois, José havia se formado em Arquitetura, havia se casado e posteriormente teve sua filha. Um verdadeiro auge na vida de José, fazendo com que sua fámilia tivesse ótimas e impecáveis condições financeiras. Entretanto, cerca de quatro anos após, um dia chuvoso, em uma viagem em família junto de seu Pai, filha e esposa, José enquanto estava dirigindo, pega muita velocidade em uma curva resultando em um acontecimento terrível. A morte de sua mulher e pai foi instãntanea, porém sua filha, ainda ferida, estava viva, então, utilizando o'que restou de adrenalina, chamando uma âmbulancia, consegue a tempo salvar sua filha, mas desmaia com os machucados em seu corpo. Semanas após o ocorrido, com sua filha tendo uma melhora, José começa a se culpar de forma extrema por tudo que aconteceu.. resultando em uma depressão extrema. Houve uma decaída em todos os sentidos possíveis; financeira, emocional e até familiar, com ele se afastando dos familiares de sua esposa, por eles baterem o pé no chão culpando ele pela morte de sua esposa.
 Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um saco de batatas para ele e sua filha comer, mas é pego e tentando resistir ele leva uma coronhada, sendo levado para a cadeia de forma instântanea.
->-
+>
 >- Nota: Houve um planejamento para a criação de conversas dentre personagens. Com o tempo decidimos focar mais na gameplay direta, ao invés de conversas com NPC.
 
 ### Secundários 
 >[!Important]
 >- `Quadrilha`: São os ladrões que se encontram com João Carlos e falam que ele aparenta ser alguém já conhecido.
->-
+>
 >- `Policial Jon`: É o policial que prende e retira o João Carlos da prisão.
 
 
 ## Gameplay
 
 >[!Important]
-
+.
 >- A gameplay é feita controlando o personagem principal (João Carlos), com o intuito de estarmos sentido o que ele sente.
 É algo bem básico, com simples movimentos de W A & D
->-
+>
 >- W: Faz o personagem andar para a frente de seu rosto.
 >- A: Sua esquerda.
 >- D: Sua direita.
->-
+>
 >- Na fase de São Paulo, se resume a desviar de carros.
 >- Enquanto a segunda fase se resume em encontrar a ponte na qual trás as memórias de João Carlos.
->-
+>
 ## Referências
 
 >[!Important]
@@ -87,7 +87,7 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >- **Gameplay:**
 >- Chiken Cross
 >- Average 3D Person 
->-
+>
 >- **História:** 
 >- Vivências de cada participante. Houve uma conversa em geral, assim, juntando conhecimentos gerais e acontecimentos do grupo, fizemos uma junção geral, que criou a história e personagens do jogo.
 
@@ -95,17 +95,17 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >[!Important]
 >
 >
->- **Fases**
+>**Fases**
 >- 1° Na fase 1, trocamos praticamente toda a gameplay por uma cutscene, que JC sai para trabalhar e é surpreendido por uma quadrilha, e para completar os problemas, um policial prende a quadrilha e leva ele junto, o fazendo ser preso injustamente, dentro da prisão ele conhece José, seu parceiro de cela, que conversa com ele e mostra que São Paulo não é tão ruim quanto ele vê. Logo após ele è liberado e seu tio com sua familia vâo buscar ele, com isso ele chega em casa e diz que vai sair com sua bicicleta para resolver umas coisas, nisso termina a cutscene e começa a 1º fase que virou a da cidade.
 >- 2º fase se tor a primeira, e agora ele precisa andar de bicicleta pela cidade, desviando dos carros até chegar no parque.
 >- agora a 2} fase de verdade, o João está no parque e começa a ir atrás das memorias do seu pai, após coletar todas, uma área na ponto é liberada e a cutscene final é iniciada.
->_
->- ***Mecanicas*
->-
+>
+>**Mecanicas**
+>
 >- O jogo mudou de um 2.5d com vista de cima, para um 3d em terceira pessoa.
 >- na primeira fase, agora o player se move sozinho no eixo Z, e só precisa apertar as teclas A e D, para desviar dos carros.
 >- na segunda fase, o player tem uma movimentação nos eixos X e Z, além de um sistema de coletaveis que aparece na UI.
->- 
+>  
 >- *musicas*
 >- Fizemos um loop das musicas:
 >- Bum Bum Tam Tam - MC Fioti
