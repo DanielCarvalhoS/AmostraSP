@@ -60,7 +60,7 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 
 ### Secundários 
 >[!Important]
->-`Quadrilha`: São os ladrões que se encontram com João Carlos e falam que ele aparenta ser alguém já conhecido.
+>- `Quadrilha`: São os ladrões que se encontram com João Carlos e falam que ele aparenta ser alguém já conhecido.
 >-
 >- `Policial Jon`: É o policial que prende e retira o João Carlos da prisão.
 
@@ -71,12 +71,12 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >- A gameplay é feita controlando o personagem principal (João Carlos), com o intuito de estarmos sentido o que ele sente.
 É algo bem básico, com simples movimentos de W A & D
 >-
->-W: Faz o personagem andar para a frente de seu rosto.
->-A: Sua esquerda.
->-D: Sua direita.
+>- W: Faz o personagem andar para a frente de seu rosto.
+>- A: Sua esquerda.
+>- D: Sua direita.
 >-
->-Na fase de São Paulo, se resume a desviar de carros.
->-Enquanto a segunda fase se resume em encontrar a ponte na qual trás as memórias de João Carlos.
+>- Na fase de São Paulo, se resume a desviar de carros.
+>- Enquanto a segunda fase se resume em encontrar a ponte na qual trás as memórias de João Carlos.
 >-
 ## Referências
 
