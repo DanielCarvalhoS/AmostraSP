@@ -2,15 +2,15 @@
 ![image](https://github.com/user-attachments/assets/0eecc770-bc5a-4eaf-a46b-31823ffd8346)
 
 >[!Important]
->Integrantes (2 Jogos):
+>**Integrantes (2 Jogos):**
 >
-> Daniel Carvalho Da Silva
+>-Daniel Carvalho Da Silva
 >
-> Enzo Silva
+>-Enzo Silva
 > 
-> Gustavo Rezende
+>-Gustavo Rezende
 >
-> Guilherme Santos
+>-Guilherme Santos
 
 Onde personagem mora: Rua Maestro Calília
 ### ANTES DAS MUDANÇAS!!!!!
