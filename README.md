@@ -118,8 +118,12 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >- Com a primeira fase, agora o player se move sozinho no eixo Z, e só precisa apertar as teclas A e D, para desviar dos carros.
 > 
 >- Na segunda fase, o player tem uma movimentação nos eixos X e Z, além de um sistema de coletaveis que aparece na UI.
->  
->- *musicas*
+>
+>**Cutscenes**
+>- Para a criação de todas as cutscenes, nós usamos o Canva. Todos os personagens foram desenhados pelos membros do grupo, dando uma importância para eles. No total obtemos 2 cutscenes; que já contado anteriormente, as duas primeiras foram unificadas pela falta da primeira fase retirada.
+>    
+>**Musicas**
+>
 >- Fizemos um loop das musicas:
 >  
 >- Bum Bum Tam Tam - MC Fioti
@@ -144,7 +148,7 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526
 
 
-##GAMEPLAY:
+##Gameplay:
 >[!Important]
 >
 >- Trocamos o 2D/3D com câmera em cima,para simplesmente deixarmos o uso dele para simplesmente 3D em terceira pessoa.
@@ -157,7 +161,7 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >
 >- O final foi modificado, para ser simplesmente uma conclusão para os pensamentos de João Carlos.
 
-##HISTÓRIA:
+##História:
 
 >[!Important]
 >
@@ -166,5 +170,6 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >- Retiramos a história de José, que, iria ser contada.
 >
 >- Por fim, retiramos a maioria das citações do Pai de João Carlos, junto de seu "Espírito" na cena final.
+
 
 
