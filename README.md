@@ -131,7 +131,10 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >https://assetstore.unity.com/packages/3d/environments/urban/simple-city-pack-plain-100348
 >
 >https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526
-
+>
+>https://assetstore.unity.com/packages/3d/environments/urban/low-poly-buildings-with-multiple-color-schemes-colorful-city-169972
+>
+>https://assetstore.unity.com/packages/3d/characters/humanoids/humans/cube-people-demo-193803
 
 ### Gameplay:
 >[!Important]
