@@ -15,7 +15,11 @@
 Onde personagem mora: Rua Maestro Calília
 # LINK DO JOGO!
 
-https://drive.google.com/file/d/1fXwD4R6Y9-_FQ36HRKk2QHTwBH92r3MO/view?usp=drive_link
+https://drive.google.com/file/d/1eiwf-eVcmOh5DY7opj9vyJPKg937IizJ/view?usp=drive_link
+
+# LINK DO VÍDEO!
+
+https://drive.google.com/file/d/104a5NEBLxV7DnEQ5P0slsl9-Y5p5E1Hf/view?usp=drive_link
 
 # ANTES DAS MUDANÇAS!!!!!
 -----------
@@ -120,11 +124,29 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >- Vida Loka Pt. 2 - Racionais MC'S
 >- Homem Na Estrada - Racionais MC's
 
+## Mapas
+
+****A PRISÃO****
+
+![image](https://github.com/user-attachments/assets/6872a136-d266-4e82-a2b8-db745209dc0e)
+
+****SÃO PAULO****
+
+![image](https://github.com/user-attachments/assets/fc6cc892-f6a8-4c6c-91e1-edc806bb3f2a)
+
+****PARQUE****
+
+![image](https://github.com/user-attachments/assets/1dfcf8fc-0ba0-4fe7-b6cc-c6590706062e)
+
+
+
 ### Assets usados + GameObjects
 
 >[!Important]
 >
 >https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-bicycle-5-262688
+>
+>https://assetstore.unity.com/packages/3d/environments/simplepoly-city-low-poly-assets-58899
 >
 >https://assetstore.unity.com/packages/3d/environments/low-poly-environment-park-242702
 >
@@ -139,6 +161,10 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >https://assetstore.unity.com/packages/3d/environments/urban/low-poly-buildings-with-multiple-color-schemes-colorful-city-169972
 >
 >https://assetstore.unity.com/packages/3d/characters/humanoids/humans/cube-people-demo-193803
+>
+>https://assetstore.unity.com/packages/3d/environments/dungeons/lite-dungeon-pack-low-poly-3d-art-by-gridness-242692
+>
+>https://assetstore.unity.com/packages/2d/textures-materials/brick/tileable-bricks-wall-24530
 
 ### Gameplay:
 >[!Important]
@@ -153,54 +179,57 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >
 >- O final foi modificado, para ser simplesmente uma conclusão para os pensamentos de João Carlos.
 
-### Scripts
-
-**AnimationController**.
-Controle de animação presente no asset do personagem principal.
-
-**Bah**.
-O Bah sere para não destruir o objeto quando troca de cena, assim deixando a musica rolar o jogo todo.
-
-**coletavel**.
-Este script foi atribuido ao item memória, ele serve para fazer a ação de coletar.
-Criamos um publico Action de quando coleta (OnCollected), e uma variavel Inteira publica que é o total. Update fizemos um codigo onde a moeda fica constantemente girando, por fim um trigger que verifica se o player encostou no item, se sim, o item é destruido e chamando o OnCollected para avisar que foi coletado.
-
-**colisao2**.
-Este script foi atribuido ao player, ele verifica se houve colisão com os carros, destrói o player e reinicia a fase. 
-O código inicia com um OnCollisionEnter que verifica se o player colidiu com algum carro, se sim, ele destroi o player e reabre a fase, reiniciando ela.
-
-**contadorColetavel**.
-Este script foi atribuido ao texto do canvas, ele serve para alterar a contagem de memória coletadas no texto.
-Primeiro criamos uma variavel de texto, TMPro chamada text, e uma publica Inteira chamada contagem, a variavel contagem vai toda vez somar mais 1 quando verificar que algo foi coletado usando a função OnCollectibleCollected, "mas como essa função sabe que foi coletado?",  porque ela interage com o OnCollected do script contagem, toda vez que o OnCollected ativa, ele atualiza a função fazendo a contagem aumentar mais 1, por fim apresentamos isso na tela usando a concatenação ($) e a variavel contagem.             
-
-**EightDirectionMovement**.
-Código de movimento do asset do personagem principal.
-
-**Fim**.
-Este script foi atribuido ao player, ele serve para virificar a colisão e se o player pegou todas as memórias, se sim, ele é enviado a cutscene final.
-o código inicia verificando uma colisão com o OnCollisionEnter, se a colisão ocorrer com o gabeObject especifico e o player já tiver coletado todas as memórias, ele é liberdo para a proxima cena ver a cutscene final.
-
-**FollowTarget**.
-O código da câmera para faze-la seguir o player.
-
-**MainMenuController**.
-Esse código serve para facilitar o controle sobre o menu do jogo, teria mais utilidades caso tivesse outos botões alem do "Play" e "Sair".
-
-**MovimentoInimigo**.
-Esse script foi atribuido aos carros (obstaculos), ele serve para eles terem um movimento continuo, e se sairem fora do mapa, são deletados.
-Criamos uma variavel Bool carro que inicia false, e um vetor chamado velocidade, o vetor vai servir para o movimento do carro constantemente no eixo Z, porem abrimos um if, que se o carro for faslse passar de uma certa posição, ele é destruido.
-
-**MovimentoShiny**.
-Esse script foi atribuido ao player (na primeira fase), ele serve para dar movimento ao personagens e trocar ele de posição ou de cena ao chegar no objetivo.
-criamos um vetor para o movimento e a posição, o vetor de movimento serviu para deixar o player se movendo constantemente no eixo Z, e podendo ir para os lados no eixo x usando os Inputs A & D. Já o vetor de posição serviu para quando o player colidir com uma parede invisivel, ele ser levado para um lugar diferente, mas tambem mais a frente tem outra parede invisivel que o leva para a proxima cena. 
-
-**Spawner**.
-Código de spawn dos carros, sendo 3 carros diferentes com delay, velocidade e momento do spawn controláveis.
-
-**Video/Video1**.
-O Video foi criado na cena menu, e serve para pular a cutscene e ir para a primeira fase. 
-O Video2 foi criado na cutscene final, e serve para envialo de volta ao menu de inicio. 
-Ambos códigos umas o Input Space para enviar para a proxima cena.
+## Scripts
+>[!Important]
+>
+>**Bah**.
+>O Bah serve para não destruir o objeto quando troca de cena, assim deixando a musica rolar o jogo todo.
+>
+>**coletavel**.
+>Este script foi atribuido ao item memória, ele serve para fazer a ação de coletar.
+>Criamos um publico Action de quando coleta (OnCollected), e uma variavel Inteira publica que é o total. Update fizemos um codigo onde a moeda fica constantemente girando, por fim um trigger que verifica se o player encostou no item, se sim, o item é destruido e >chamando o OnCollected para avisar que foi coletado.
+>
+>**colisao2**.
+>Este script foi atribuido ao player, ele verifica se houve colisão com os carros, destrói o player e reinicia a fase. 
+>O código inicia com um OnCollisionEnter que verifica se o player colidiu com algum carro, se sim, ele destroi o player e reabre a fase, reiniciando ela.
+>
+>**contadorColetavel**.
+>Este script foi atribuido ao texto do canvas, ele serve para alterar a contagem de memória coletadas no texto.
+>Primeiro criamos uma variavel de texto, TMPro chamada text, e uma publica Inteira chamada contagem, a variavel contagem vai toda vez somar mais 1 quando verificar que algo foi coletado usando a função OnCollectibleCollected, "mas como essa função sabe que foi coletado?",  porque ela interage com o OnCollected do script contagem, toda vez que o OnCollected ativa, ele atualiza a função fazendo a contagem aumentar mais 1, por fim apresentamos isso na tela usando a concatenação ($) e a variavel contagem.
+>
+>**Fim**.
+>Este script foi atribuido ao player, ele serve para virificar a colisão e se o player pegou todas as memórias, se sim, ele é enviado a cutscene final.
+>o código inicia verificando uma colisão com o OnCollisionEnter, se a colisão ocorrer com o gabeObject especifico e o player já tiver coletado todas as memórias, ele é liberdo para a proxima cena ver a cutscene final.
+>
+>**MovimentoInimigo**.
+>Esse script foi atribuido aos carros (obstaculos), ele serve para eles terem um movimento continuo, e se sairem fora do mapa, são deletados.
+>Criamos uma variavel Bool carro que inicia false, e um vetor chamado velocidade, o vetor vai servir para o movimento do carro constantemente no eixo Z, porem abrimos um if, que se o carro for faslse passar de uma certa posição, ele é destruido.
+>
+>**MovimentoShiny**.
+>Esse script foi atribuido ao player (na primeira fase), ele serve para dar movimento ao personagens e trocar ele de posição ou de cena ao chegar no objetivo.
+>criamos um vetor para a posição. K vetor de posição serviu para quando o player colidir com uma parede translucidal que o leva para a proxima cena. 
+>
+>**Spawner**.
+>Código de spawn dos carros, sendo 3 carros diferentes com delay, velocidade e momento do spawn controláveis.
+>
+>**Video/Video1**.
+>O Video foi criado na cena menu, e serve para pular a cutscene e ir para a primeira fase. 
+>O Video2 foi criado na cutscene final, e serve para envialo de volta ao menu de inicio. 
+>Ambos códigos umas o Input Space para enviar para a proxima cena.
+>
+#### Scripts do AssetStore
+>[!Important]
+>**AnimationController**.
+>Controle de animação presente no asset do personagem principal.
+>
+>**EightDirectionMovement**.
+>Código de movimento do asset do personagem principal.
+>
+>**FollowTarget**.
+>O código da câmera para faze-la seguir o player.
+>
+>**MainMenuController**.
+>Esse código serve para facilitar o controle sobre o menu do jogo, teria mais utilidades caso tivesse outos botões alem do "Play" e "Sair".
 
 ### História:
 
