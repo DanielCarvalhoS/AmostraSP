@@ -148,7 +148,7 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 
 ### Scripts
 
-**AnimationController**
+**AnimationController**.
 Controle de animação presente no asset do personagem principal.
 
 **Bah**.
