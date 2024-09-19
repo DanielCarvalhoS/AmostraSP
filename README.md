@@ -146,6 +146,10 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >
 >- O final foi modificado, para ser simplesmente uma conclusão para os pensamentos de João Carlos.
 
+### Scripts
+
+
+
 ### História:
 
 >[!Important]
