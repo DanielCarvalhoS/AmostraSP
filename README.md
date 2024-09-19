@@ -148,6 +148,49 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 
 ### Scripts
 
+**Animacao**
+
+
+**AnimationController**
+
+
+**Bah**
+
+
+**coletavel**
+Esse código foi criado e atribuido ao item memória, ele serve para fazer a ação de coletar.
+
+**colisao2**
+Esse código foi criado e atribuido ao player, ele verifica se houve colisão com os carros, destrói o player e reinicia a fase. 
+
+**contadorColetavel**
+
+
+**CubePeopleTraffic**
+
+
+**EightDirectionMovement**
+
+
+**Fim**
+
+
+**FollowTarget**
+
+
+**MainMenuController**
+
+
+**MovimentoInimigo**
+
+
+**MovimentoShiny**
+
+
+**Spawner**
+
+
+**Video/Video1**
 
 
 ### História:
