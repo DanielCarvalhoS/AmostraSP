@@ -19,7 +19,7 @@ https://drive.google.com/file/d/1eiwf-eVcmOh5DY7opj9vyJPKg937IizJ/view?usp=drive
 
 # LINK DO VÍDEO!
 
-https://drive.google.com/file/d/1SJdy-KeQsbq0R0Db2GlXhOGqp3Rhq9QB/view?usp=drive_link
+https://drive.google.com/file/d/104a5NEBLxV7DnEQ5P0slsl9-Y5p5E1Hf/view?usp=drive_link
 
 # ANTES DAS MUDANÇAS!!!!!
 -----------
