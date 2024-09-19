@@ -163,7 +163,7 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >[!Important]
 >
 >**Bah**.
->O Bah sere para não destruir o objeto quando troca de cena, assim deixando a musica rolar o jogo todo.
+>O Bah serve para não destruir o objeto quando troca de cena, assim deixando a musica rolar o jogo todo.
 >
 >**coletavel**.
 >Este script foi atribuido ao item memória, ele serve para fazer a ação de coletar.
