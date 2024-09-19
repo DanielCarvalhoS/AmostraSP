@@ -156,9 +156,6 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 ## Scripts
 >[!Important]
 >
->**AnimationController**.
->Controle de animação presente no asset do personagem principal.
->
 >**Bah**.
 >O Bah sere para não destruir o objeto quando troca de cena, assim deixando a musica rolar o jogo todo.
 >
@@ -172,20 +169,11 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >
 >**contadorColetavel**.
 >Este script foi atribuido ao texto do canvas, ele serve para alterar a contagem de memória coletadas no texto.
->Primeiro criamos uma variavel de texto, TMPro chamada text, e uma publica Inteira chamada contagem, a variavel contagem vai toda vez somar mais 1 quando verificar que algo foi coletado usando a função OnCollectibleCollected, "mas como essa função sabe que foi >coletado?",  porque ela interage com o OnCollected do script contagem, toda vez que o OnCollected ativa, ele atualiza a função fazendo a contagem aumentar mais 1, por fim apresentamos isso na tela usando a concatenação ($) e a variavel contagem.             
->
->**EightDirectionMovement**.
->Código de movimento do asset do personagem principal.
+>Primeiro criamos uma variavel de texto, TMPro chamada text, e uma publica Inteira chamada contagem, a variavel contagem vai toda vez somar mais 1 quando verificar que algo foi coletado usando a função OnCollectibleCollected, "mas como essa função sabe que foi >coletado?",  porque ela interage com o OnCollected do script contagem, toda vez que o OnCollected ativa, ele atualiza a função fazendo a contagem aumentar mais 1, por fim apresentamos isso na tela usando a concatenação ($) e a variavel contagem.
 >
 >**Fim**.
 >Este script foi atribuido ao player, ele serve para virificar a colisão e se o player pegou todas as memórias, se sim, ele é enviado a cutscene final.
 >o código inicia verificando uma colisão com o OnCollisionEnter, se a colisão ocorrer com o gabeObject especifico e o player já tiver coletado todas as memórias, ele é liberdo para a proxima cena ver a cutscene final.
->
->**FollowTarget**.
->O código da câmera para faze-la seguir o player.
->
->**MainMenuController**.
->Esse código serve para facilitar o controle sobre o menu do jogo, teria mais utilidades caso tivesse outos botões alem do "Play" e "Sair".
 >
 >**MovimentoInimigo**.
 >Esse script foi atribuido aos carros (obstaculos), ele serve para eles terem um movimento continuo, e se sairem fora do mapa, são deletados.
@@ -202,6 +190,20 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >O Video foi criado na cena menu, e serve para pular a cutscene e ir para a primeira fase. 
 >O Video2 foi criado na cutscene final, e serve para envialo de volta ao menu de inicio. 
 >Ambos códigos umas o Input Space para enviar para a proxima cena.
+>
+#### Scripts do AssetStore
+>[!Important]
+>**AnimationController**.
+>Controle de animação presente no asset do personagem principal.
+>
+>**EightDirectionMovement**.
+>Código de movimento do asset do personagem principal.
+>
+>**FollowTarget**.
+>O código da câmera para faze-la seguir o player.
+>
+>**MainMenuController**.
+>Esse código serve para facilitar o controle sobre o menu do jogo, teria mais utilidades caso tivesse outos botões alem do "Play" e "Sair".
 
 ### História:
 
