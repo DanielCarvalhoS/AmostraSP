@@ -148,14 +148,10 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 
 ### Scripts
 
-**Animacao**.
-Este script foi atribuido ao player, ele serve para ativar a animação quando o player começar a andar.
-Primeiramente criamos uma variavel Animator, que depois recebe o componente animação, com isso criamos um input com a tecla "w", se ela tiver precionada, a animação inicia, se não tiver, a animação para.
-
 **AnimationController**
+Controle de animação presente no asset do personagem principal.
 
-
-**Bah**
+**Bah**.
 O Bah sere para não destruir o objeto quando troca de cena, assim deixando a musica rolar o jogo todo.
 
 **coletavel**.
@@ -170,21 +166,18 @@ O código inicia com um OnCollisionEnter que verifica se o player colidiu com al
 Este script foi atribuido ao texto do canvas, ele serve para alterar a contagem de memória coletadas no texto.
 Primeiro criamos uma variavel de texto, TMPro chamada text, e uma publica Inteira chamada contagem, a variavel contagem vai toda vez somar mais 1 quando verificar que algo foi coletado usando a função OnCollectibleCollected, "mas como essa função sabe que foi coletado?",  porque ela interage com o OnCollected do script contagem, toda vez que o OnCollected ativa, ele atualiza a função fazendo a contagem aumentar mais 1, por fim apresentamos isso na tela usando a concatenação ($) e a variavel contagem.             
 
-**CubePeopleTraffic**
-
-
-**EightDirectionMovement**
-
+**EightDirectionMovement**.
+Código de movimento do asset do personagem principal.
 
 **Fim**.
 Este script foi atribuido ao player, ele serve para virificar a colisão e se o player pegou todas as memórias, se sim, ele é enviado a cutscene final.
 o código inicia verificando uma colisão com o OnCollisionEnter, se a colisão ocorrer com o gabeObject especifico e o player já tiver coletado todas as memórias, ele é liberdo para a proxima cena ver a cutscene final.
 
-**FollowTarget**
+**FollowTarget**.
+O código da câmera para faze-la seguir o player.
 
-
-**MainMenuController**
-
+**MainMenuController**.
+Esse código serve para facilitar o controle sobre o menu do jogo, teria mais utilidades caso tivesse outos botões alem do "Play" e "Sair".
 
 **MovimentoInimigo**.
 Esse script foi atribuido aos carros (obstaculos), ele serve para eles terem um movimento continuo, e se sairem fora do mapa, são deletados.
@@ -194,8 +187,8 @@ Criamos uma variavel Bool carro que inicia false, e um vetor chamado velocidade,
 Esse script foi atribuido ao player (na primeira fase), ele serve para dar movimento ao personagens e trocar ele de posição ou de cena ao chegar no objetivo.
 criamos um vetor para o movimento e a posição, o vetor de movimento serviu para deixar o player se movendo constantemente no eixo Z, e podendo ir para os lados no eixo x usando os Inputs A & D. Já o vetor de posição serviu para quando o player colidir com uma parede invisivel, ele ser levado para um lugar diferente, mas tambem mais a frente tem outra parede invisivel que o leva para a proxima cena. 
 
-**Spawner**
-
+**Spawner**.
+Código de spawn dos carros, sendo 3 carros diferentes com delay, velocidade e momento do spawn controláveis.
 
 **Video/Video1**.
 O Video foi criado na cena menu, e serve para pular a cutscene e ir para a primeira fase. 
