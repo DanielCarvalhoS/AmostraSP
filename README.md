@@ -175,7 +175,7 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >
 >**contadorColetavel**.
 >Este script foi atribuido ao texto do canvas, ele serve para alterar a contagem de memória coletadas no texto.
->Primeiro criamos uma variavel de texto, TMPro chamada text, e uma publica Inteira chamada contagem, a variavel contagem vai toda vez somar mais 1 quando verificar que algo foi coletado usando a função OnCollectibleCollected, "mas como essa função sabe que foi >coletado?",  porque ela interage com o OnCollected do script contagem, toda vez que o OnCollected ativa, ele atualiza a função fazendo a contagem aumentar mais 1, por fim apresentamos isso na tela usando a concatenação ($) e a variavel contagem.
+>Primeiro criamos uma variavel de texto, TMPro chamada text, e uma publica Inteira chamada contagem, a variavel contagem vai toda vez somar mais 1 quando verificar que algo foi coletado usando a função OnCollectibleCollected, "mas como essa função sabe que foi coletado?",  porque ela interage com o OnCollected do script contagem, toda vez que o OnCollected ativa, ele atualiza a função fazendo a contagem aumentar mais 1, por fim apresentamos isso na tela usando a concatenação ($) e a variavel contagem.
 >
 >**Fim**.
 >Este script foi atribuido ao player, ele serve para virificar a colisão e se o player pegou todas as memórias, se sim, ele é enviado a cutscene final.
