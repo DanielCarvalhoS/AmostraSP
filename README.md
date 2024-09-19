@@ -124,6 +124,22 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >- Vida Loka Pt. 2 - Racionais MC'S
 >- Homem Na Estrada - Racionais MC's
 
+### Mapas
+
+****A PRISÃO****
+
+![image](https://github.com/user-attachments/assets/6872a136-d266-4e82-a2b8-db745209dc0e)
+
+****SÃO PAULO****
+
+![image](https://github.com/user-attachments/assets/fc6cc892-f6a8-4c6c-91e1-edc806bb3f2a)
+
+****PARQUE****
+
+![image](https://github.com/user-attachments/assets/1dfcf8fc-0ba0-4fe7-b6cc-c6590706062e)
+
+
+
 ### Assets usados + GameObjects
 
 >[!Important]
@@ -145,6 +161,10 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >https://assetstore.unity.com/packages/3d/environments/urban/low-poly-buildings-with-multiple-color-schemes-colorful-city-169972
 >
 >https://assetstore.unity.com/packages/3d/characters/humanoids/humans/cube-people-demo-193803
+>
+>https://assetstore.unity.com/packages/3d/environments/dungeons/lite-dungeon-pack-low-poly-3d-art-by-gridness-242692
+>
+>https://assetstore.unity.com/packages/2d/textures-materials/brick/tileable-bricks-wall-24530
 
 ### Gameplay:
 >[!Important]
