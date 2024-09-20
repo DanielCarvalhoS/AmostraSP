@@ -180,7 +180,18 @@ João C entra no carro de seu tio, se acomoda e fecha os olhos. Pela primeira ve
 >- Reduzimos o tamanho dos mapas e não haverá mais falas/conversas com NPC's
 >
 >- O final foi modificado, para ser simplesmente uma conclusão para os pensamentos de João Carlos.
-
+>
+### História:
+>[!Important]
+>
+>- Retiramos a presença da personagem Bianca (Irmã), e apenas colocamos uma citação.
+>
+>- Retiramos a história de José, que, iria ser contada.
+>
+>- Por fim, retiramos a maioria das citações do Pai de João Carlos, junto de seu "Espírito" na cena final.
+>  
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
 ## Scripts
 >[!Important]
 >
@@ -316,16 +327,4 @@ No Update usamos o transform.LocalRotation para o objeto rotacionar no mesmo lug
 >
 >-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >
-
-### História:
-
->[!Important]
->
->- Retiramos a presença da personagem Bianca (Irmã), e apenas colocamos uma citação.
->
->- Retiramos a história de José, que, iria ser contada.
->
->- Por fim, retiramos a maioria das citações do Pai de João Carlos, junto de seu "Espírito" na cena final.
-
-
 
