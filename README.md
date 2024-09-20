@@ -51,7 +51,8 @@ Após chegar em casa, em alguns tempos, ele decide dar uma volta em SP, assim co
 >
 > `Finalização`: Com a nossa história, queríamos entregar um significado maior sobre “Quebrar correntes”. Isso seria se libertar das amarras e do São Paulo cinzento... Muitos tem suas próprias prisões, os motivos de estarem lá, dentre vários e vários outros... Porém desejamos mostrar a beleza da vida, a compreensão de como é lindo a nossa cidade. Mesmo havendo seus erros, notável é, que nós a fazemos bela.
 >
->***Músicas que vão estar na Rádio (Mecânica do jogo para escolher músicas que combinam com cada parte. Todos os artistas são originais de São Paulo.)***
+
+>"***Músicas que vão estar na Rádio (Mecânica do jogo para escolher músicas que combinam com cada parte. Todos os artistas são originais de São Paulo.)***" Retirada
 
 ## Personagens 
 
