@@ -99,11 +99,12 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >**Fases**
 > Com a criação do jogo, reduzimos a quantidade fases de três para apenas duas.]
 >
->- 1° Na fase 1, trocamos praticamente toda a gameplay por uma cutscene, que JC sai para trabalhar e é surpreendido por uma quadrilha, e para completar os problemas, um policial prende a quadrilha e leva ele junto, o fazendo ser preso injustamente, dentro da prisão ele conhece José, seu parceiro de cela, que conversa com ele e mostra que São Paulo não é tão ruim quanto ele vê. Logo após ele è liberado e seu tio com sua familia vâo buscar ele, com isso ele chega em casa e diz que vai sair com sua bicicleta para resolver umas coisas, nisso termina a cutscene e começa a 1º fase que virou a da cidade.
->
->- 2º que agora se tornou a nossa primeira fase; e ele precisa andar de bicicleta pela cidade, desviando dos carros até chegar no parque.
+>- 1º A fase inicial foi reduzida. A prisão se manteve, porém, ela está mais simples e prática.
 >  
->- Já na 3º fase, que atualmente é a 2º, o João está no parque e começa a ir atrás de memórias/lembranças, vivênciando locais para descobrir o motivo do seu sentimento repentino. Após coletar todas, uma área na ponto é liberada e a cutscene final é iniciada.
+>- 2º A fase de São Paulo se manteve no quesito gameplay; entretanto por conta de complicações, retiramos as falas com NPC, príncipalmente a conversa de João Carlos e seu Tio.
+> Gameplay: O player precisa andar de bicicleta pela cidade, desviando dos carros até chegar no ponto X, que é o parque.
+>  
+>- Já na 3º fase, o João C. está no parque e começa a ir em busca de memórias/lembranças, vivênciando locais para descobrir o motivo do seu sentimento repentino. Após coletar todas, uma área na ponte é liberada e a cutscene final é iniciada.
 >
 >**Mecanicas**
 >
@@ -114,7 +115,7 @@ Após a falencia de sua empresa, em uma tentativa extrema, José tenta roubar um
 >- Na segunda fase, o player tem uma movimentação nos eixos X e Z, além de um sistema de coletaveis que aparece na UI.
 >
 >**Cutscenes**
->- Para a criação de todas as cutscenes, nós usamos o Canva. Todos os personagens foram desenhados pelos membros do grupo, dando uma importância para eles. No total obtemos 2 cutscenes; que já contado anteriormente, as duas primeiras foram unificadas pela falta da primeira fase retirada.
+>- Para a criação de todas as cutscenes, nós usamos o Canva. Todos os personagens foram desenhados pelos membros do grupo, dando uma importância para eles. No total obtemos 3 cutscenes; uma para explicar o início, outra para contar q ele saiu da prisão, e a última para o final.
 >    
 >**Musicas**
 >
