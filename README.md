@@ -197,9 +197,9 @@ João C entra no carro de seu tio, se acomoda e fecha os olhos. Pela primeira ve
 >
 >- `Script – Bah`:
 > O Bah serve para não destruir o objeto quando troca de cena, assim deixando a música rolar o jogo todo.
-
+>
 >- instance - criamos uma variável public static chamada instance, ela pode interagir com outros códigos.
-
+>
 >- if - se a instace for diferente de null, o gameObject onde o script tá será destruído, mas se não, o gameObject irá se manter para a próxima cena com o código "DonDestroyOnLoad".
 >
 >![image](https://github.com/user-attachments/assets/91690ac7-8628-44a8-ad6b-ccae39c07e12)
