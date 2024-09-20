@@ -15,7 +15,7 @@
 Onde personagem mora: Rua Maestro Calília
 # LINK DO JOGO!
 
-https://drive.google.com/file/d/1eiwf-eVcmOh5DY7opj9vyJPKg937IizJ/view?usp=drive_link
+https://drive.google.com/file/d/1ArJOPC1uGH4IUgOmlxhYeL1kEY4uLqap/view?usp=drive_link
 
 # LINK DO VÍDEO!
 
