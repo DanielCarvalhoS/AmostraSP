@@ -189,6 +189,7 @@ João C entra no carro de seu tio, se acomoda e fecha os olhos. Pela primeira ve
 >
 >![image](https://github.com/user-attachments/assets/91690ac7-8628-44a8-ad6b-ccae39c07e12)
 >
+>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >
 >- Script - Coletável:
 >Este script foi atribuído ao item memória, ele serve para fazer a ação de coletar. Criamos uma public Action que quando coleta (OnCollected), e uma variável Inteira publica que é o total. Update fizemos um código onde a moeda fica constantemente girando, por fim um trigger que verifica se o player encostou no item, se sim, o item é destruído e >chamando o OnCollected para avisar que foi coletado.
@@ -200,6 +201,7 @@ No Update usamos o transform.LocalRotation para o objeto rotacionar no mesmo lug
 >
 >![image](https://github.com/user-attachments/assets/6836c794-281f-4f48-a8ac-b707856a753e)
 >
+>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >
 >-Script - colisao2:
 > Este script foi atribuído ao player, ele verifica se houve colisão com os carros, destrói o player e reinicia a fase. O código inicia com um OnCollisionEnter que verifica se o player colidiu com algum carro, se sim, ele destrói o player e reabre a fase, reiniciando-a.la.
@@ -208,6 +210,7 @@ No Update usamos o transform.LocalRotation para o objeto rotacionar no mesmo lug
 >
 >![image](https://github.com/user-attachments/assets/8319cf42-6a1f-472f-8015-96ffc9726616)
 >
+>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >
 >- Script - contadorColetavel:
 > Este script foi atribuído ao texto do canva, ele serve para alterar a contagem de memória coletadas no texto. Primeiro criamos uma variável de texto, TMPro chamada text, e uma public Int chamada contagem, a variável contagem vai toda vez somar mais 1 quando verificar que algo foi coletado usando a função OnCollectibleCollected, "mas como essa função sabe que foi coletado?", porque ela interage com o OnCollected do script contagem, toda vez que o OnCollected ativa, ele atualiza a função fazendo a contagem aumentar mais 1, por fim apresentamos isso na tela usando a concatenação ($) e a variável contagem.
@@ -224,6 +227,7 @@ No Update usamos o transform.LocalRotation para o objeto rotacionar no mesmo lug
 >
 >![image](https://github.com/user-attachments/assets/3bef7f87-9f31-4dc0-a36d-b7067e281cc1)
 >
+>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >
 >- Script - Fim:
 >Este script foi atribuído ao player, ele serve para verificar a colisão e se o player pegou todas as memórias, se sim, ele é enviado a cutscene final. o código inicia verificando uma colisão com o OnCollisionEnter, se a colisão ocorrer com o GameObject especifico e o player já tiver coletado todas as memórias, ele é liberto para a próxima cena ver a cutscene final.
@@ -232,6 +236,7 @@ No Update usamos o transform.LocalRotation para o objeto rotacionar no mesmo lug
 >
 >![image](https://github.com/user-attachments/assets/b5f15baa-d80a-49bb-a3f9-9e7689fcfdea)
 >
+>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >
 >- Script - MovimentoInimigo:
 > Esse script foi atribuído aos carros (obstáculos), ele serve para eles terem um movimento continuo, e se saírem fora do mapa, são deletados. Criamos uma variável Bool carro que inicia como false, e um vetor chamado velocidade, o vetor vai servir para o movimento do carro constantemente no eixo Z, porem abrimos um “If”, que se o carro for false passar de uma certa posição, ele é destruído.
@@ -242,6 +247,7 @@ No Update usamos o transform.LocalRotation para o objeto rotacionar no mesmo lug
 >
 >![image](https://github.com/user-attachments/assets/e5b3e732-e104-4b9d-9ae4-3c7477c2544b)
 >
+>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >
 >- Script - MovimentoShiny:
 > Esse script foi atribuído ao player (na primeira fase), ele serve para dar movimento ao personagem e trocar ele de posição ou de cena ao chegar no objetivo. criamos um vetor para a posição. K vetor de posição serviu para quando o player colidir com uma parede translucida que o leva para a próxima cena.
@@ -252,26 +258,26 @@ No Update usamos o transform.LocalRotation para o objeto rotacionar no mesmo lug
 >
 >![image](https://github.com/user-attachments/assets/357f04c5-5958-4239-ab50-e0fe1354a2c6)
 >
+>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >
 >- Script - Spawner:
 > Código de spawn dos carros, sendo 3 carros diferentes com delay, velocidade e momento do spawn controláveis.
 >
 >![image](https://github.com/user-attachments/assets/32617259-b86a-4aa4-8f8d-9232b9090055)
 >
+>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >
 >Script - Video/Video1/Video2:
 >O Video foi criado na cena menu, e serve para pular a cutscene e ir para a primeira fase. O Video2 foi criado na cutscene final, e serve para envia-lo de volta ao menu de início. Ambos códigos umas o Input Space para enviar para a próxima cena.
 >
->![image](https://github.com/user-attachments/assets/95a9d8aa-c045-4fd1-a768-1663fe55ad14)
+>Input - em ambos os Scripts usamos o Input.GetKey com a tecla "Space"=, quando ela é clicada, a função loadScene é chamada e é enviado a próxima cena. No vídeo o espaço de manda para a prisão, que é a fase 1, e no vídeo1, é enviado de volta ao menu.
+>
+>>![image](https://github.com/user-attachments/assets/95a9d8aa-c045-4fd1-a768-1663fe55ad14)
 >
 >
 >![image](https://github.com/user-attachments/assets/55d8b775-2a52-46fd-a985-2864f5db4cb6)
 >
->
->Input - em ambos os Scripts usamos o Input.GetKey com a tecla "Space"=, quando ela é clicada, a função loadScene é chamada e é enviado a próxima cena. No vídeo o espaço de manda para a prisão, que é a fase 1, e no vídeo1, é enviado de volta ao menu.
->
->
->
+>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >
 #### Scripts do AssetStore
 >[!Important]
@@ -280,6 +286,7 @@ No Update usamos o transform.LocalRotation para o objeto rotacionar no mesmo lug
 >
 >![image](https://github.com/user-attachments/assets/4c310ae0-bb08-46d9-9dba-551a0cc53685)
 >
+>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >
 >**EightDirectionMovement**.
 >Código de movimento do asset do personagem principal.
@@ -288,6 +295,7 @@ No Update usamos o transform.LocalRotation para o objeto rotacionar no mesmo lug
 >
 >![image](https://github.com/user-attachments/assets/576cc433-311b-4cc5-b1f4-1ad6ffe62691)
 >
+>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >
 >**FollowTarget**.
 >O código da câmera para faze-la seguir o player.
@@ -298,11 +306,14 @@ No Update usamos o transform.LocalRotation para o objeto rotacionar no mesmo lug
 >
 >![image](https://github.com/user-attachments/assets/aacf3815-dfab-47d7-b2f3-4ec00dbfc0c2)
 >
+>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>
 >**MainMenuController**.
 >Esse código serve para facilitar o controle sobre o menu do jogo, teria mais utilidades caso tivesse outos botões alem do "Play" e "Sair".
 >
 >![image](https://github.com/user-attachments/assets/4214fe86-b119-4d78-85c7-89daa9248a62)
 >
+>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >
 
 ### História:
