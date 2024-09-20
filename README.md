@@ -195,7 +195,7 @@ João C entra no carro de seu tio, se acomoda e fecha os olhos. Pela primeira ve
 >Event Action OnCollected - é uma variável public e static, assim podendo interagir em outros códigos, além de serem do tipo Action, as variáveis do tipo Action podem receber uma função como valor.
 No Update usamos o transform.LocalRotation para o objeto rotacionar no mesmo lugar
 >
-Por fim criamos um OnTriggerEnter que dentro tem um if, o if verifica se o Collision tem a tag "Player", se tiver ele destrói o objeto em que está e chama o OnCollected com o método Invoke.
+>Por fim criamos um OnTriggerEnter que dentro tem um if, o if verifica se o Collision tem a tag "Player", se tiver ele destrói o objeto em que está e chama o OnCollected com o método Invoke.
 >
 >-Script - colisao2:
 > Este script foi atribuído ao player, ele verifica se houve colisão com os carros, destrói o player e reinicia a fase. O código inicia com um OnCollisionEnter que verifica se o player colidiu com algum carro, se sim, ele destrói o player e reabre a fase, reiniciando-a.la.
