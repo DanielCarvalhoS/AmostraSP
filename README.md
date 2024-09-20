@@ -235,7 +235,7 @@ No Update usamos o transform.LocalRotation para o objeto rotacionar no mesmo lug
 >
 >- Script - Spawner:
 > Código de spawn dos carros, sendo 3 carros diferentes com delay, velocidade e momento do spawn controláveis.
-
+>
 >Script - Video/Video1/Video2:
 >O Video foi criado na cena menu, e serve para pular a cutscene e ir para a primeira fase. O Video2 foi criado na cutscene final, e serve para envia-lo de volta ao menu de início. Ambos códigos umas o Input Space para enviar para a próxima cena.
 >
