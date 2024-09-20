@@ -23,11 +23,13 @@ https://drive.google.com/file/d/104a5NEBLxV7DnEQ5P0slsl9-Y5p5E1Hf/view?usp=drive
 
 # ANTES DAS MUDANÇAS!!!!!
 -----------
-> 1- `A prisão`: JC acorda em sua cela com um policial o chamando para uma auditoria, com isso se inicia a gameplay com ele andando pela prisão (com pegada de labirinto) até o local desiguinado. após chegar no objetivo irá aparecer uma mensagem dizendo q ele está liberado, nisso entra a segunda parte da gameplay. Nela ele anda pela prisão conversando com os detentos pela ulltima vez, e por fim vai até a saida onde encontra com seu tio. ***(a musica tema serà um remix em loop de Vida Loka, Pt. 2 e Nego Drama, só instrumental)***. O design da prisâo tem uma estética mais escura e morta, bem cinza e mòrbida
+>[!Important]
 >
-> 2- `A Cidade`: JC encontrará o seu tio fora do carro esperando ele para irem embora, nisso eles entram no carro e inicia uma cena de dialogo, com o carro andando pela estrada. JC diz que se sente muito bem e quer conhecer melhor a cidade que ele morou mas nunca apreciou. Assim terminando o dialogo. Ele chega em casa, descansa, e ocorre uma passagem de tempo de 4 dias. nesse meio tempo JC arruma em emprego de entregador do Ifood, com isso ele aproveita para apreciar a cidade enquanto trabalha, juntando o útil com o agradavel.
->
-> 1- `O Parque`: JC inicia o dia pegando sua bicicleta e indo fazer as entegras nas ruas de SP dos locais mais famosos, assim iniciando a gameplay, dele desviando de carros e chegando no ponto marcado, enquanto ouve musica em seu fone de ouvido ***(diferente do mapa 1, o mapa 2 serà mais vivo e colorido, com musicas mais autoastral)***.
+>- 1- A prisão: JC acorda em sua cela com um policial o chamando para uma auditoria, com isso se inicia a gameplay com ele andando pela prisão (com pegada de labirinto) até o local designado. após chegar no objetivo irá aparecer uma mensagem dizendo q ele está liberado, nisso entra a segunda parte da gameplay. Nela ele anda pela prisão conversando com os detentos pela última vez, e por fim vai até a saída onde encontra com seu tio. (A música tema será um remix em loop de Vida Loka, Pt. 2 e Nego Drama, só instrumental). O design da prisão tem uma estética mais escura e morta, bem cinza e mórbida
+>  
+>- 2- A Cidade: JC encontrará o seu tio fora do carro esperando-o para irem embora, nisso eles entram no carro e inicia uma cena de diálogo, com o carro andando pela estrada. JC diz que se sente muito bem e quer conhecer melhor a cidade que ele viveu, mas, nunca apreciou. Assim terminando o diálogo. Ele chega em casa, descansa, e ocorre uma passagem de tempo de 4 dias. nesse meio tempo JC arruma em emprego de entregador do IFood, com isso ele aproveita para apreciar a cidade enquanto trabalha, juntando o útil com o agradável.
+>  
+>- 1- O Parque: JC inicia o dia pegando sua bicicleta e indo fazer as entregas nas ruas de SP dos locais mais famosos, assim iniciando a gameplay, dele desviando de carros e chegando no ponto marcado, enquanto ouve música em seu fone de ouvido (diferente do mapa 1, o mapa 2 será mais vivo e colorido, com músicas mais alto-astral).
 
                                                                                                                       
                                                                                                                                                            
